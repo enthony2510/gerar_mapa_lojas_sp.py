@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "gerar_mapa_lojas_sp.py", "gerar_mapa_lojas_sp.py.pyproj", "{EE659EDA-4813-46B5-89EF-651F74FE7BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE659EDA-4813-46B5-89EF-651F74FE7BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE659EDA-4813-46B5-89EF-651F74FE7BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F043A400-2DB9-491E-BDE6-D44EC9891FC9}
+	EndGlobalSection
+EndGlobal
